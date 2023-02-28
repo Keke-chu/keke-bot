@@ -1,0 +1,17 @@
+{
+  "name": "lavalink",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@lavacord/discord.js": "^0.0.7",
+    "discord.js": "^14.7.1",
+    "node-fetch": "^3.3.0",
+    "simple-youtube-api": "^5.2.1"
+  }
+}
